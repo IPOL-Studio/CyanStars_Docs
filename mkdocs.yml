@@ -1,0 +1,70 @@
+site_name: 学院档案馆
+site_description: CyanStars 附属文档站点
+site_author: 无圻寻光开发组
+site_url: https://CyanStarsDevelopmentGroup.github.io/CyanStars_Docs
+repo_url: https://github.com/CyanStarsDevelopmentGroup/CyanStars_Docs
+theme:
+  name: material
+  custom_dir: overrides
+  language: zh
+  icon:
+    repo: fontawesome/brands/github
+  features:
+  - navigation.tabs
+  - navigation.prune
+  - navigation.indexes
+  - toc.follow
+  - navigation.top
+  - search.suggest
+  - content.code.copy
+  palette: 
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: blue grey
+    accent: indigo
+    toggle:
+      icon: material/brightness-7 
+      name: 切换到深色模式
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: blue grey
+    accent: indigo
+    toggle:
+      icon: material/brightness-4
+      name: 切换到浅色模式
+
+extra:
+  generator: false
+  alternate:
+  - name: 简体中文
+    link: /zh/
+    lang: zh
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+- home: index.md
+
+plugins:
+- search:
+    separator: '[\s\u200b\-]'
+- i18n:
+    docs_structure: suffix
+    fallback_to_default: true
+    reconfigure_material: true
+    reconfigure_search: true
+    languages:
+    - locale: zh
+      build: true
+      default: true
+      name: 简体中文
+      site_name: 学院档案馆
+      nav_translations:
+        home: 主页
