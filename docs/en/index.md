@@ -1,3 +1,7 @@
+---
+hide: navigation
+---
+
 # Welcome to the CyanStars Document Site
 
 ## Where is this
