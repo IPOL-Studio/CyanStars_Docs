@@ -1,8 +1,8 @@
 site_name: 学院档案馆
 site_description: CyanStars 附属文档站点
 site_author: 无圻寻光开发组
-site_url: https://CyanStarsDevelopmentGroup.github.io/CyanStars_Docs
-repo_url: https://github.com/CyanStarsDevelopmentGroup/CyanStars_Docs
+site_url: https://IPOL-Studio.github.io/CyanStars_Docs
+repo_url: https://github.com/IPOL-Studio/CyanStars_Docs/settings
 theme:
   name: material
   custom_dir: overrides
