@@ -1,8 +1,8 @@
 site_name: 学院档案馆
 site_description: CyanStars 附属文档站点
 site_author: 无圻寻光开发组
-site_url: https://CyanStarsDevelopmentGroup.github.io/CyanStars_Docs
-repo_url: https://github.com/CyanStarsDevelopmentGroup/CyanStars_Docs
+site_url: https://IPOL-Studio.github.io/CyanStars_Docs
+repo_url: https://github.com/IPOL-Studio/CyanStars_Docs/settings
 theme:
   name: material
   custom_dir: overrides
@@ -10,89 +10,99 @@ theme:
   icon:
     repo: fontawesome/brands/github
   features:
-  - navigation.tabs
-  - navigation.prune
-  - navigation.indexes
-  - toc.follow
-  - navigation.top
-  - search.suggest
-  - content.code.copy
-  palette: 
-  - media: "(prefers-color-scheme: light)"
-    scheme: default
-    primary: blue grey
-    accent: indigo
-    toggle:
-      icon: material/brightness-7 
-      name: 切换到深色模式
-  - media: "(prefers-color-scheme: dark)"
-    scheme: slate
-    primary: blue grey
-    accent: indigo
-    toggle:
-      icon: material/brightness-4
-      name: 切换到浅色模式
-
+    - navigation.tabs
+    - navigation.prune
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+  palette:
+    - 
+      media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+    - 
+      media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换到浅色模式
 extra:
   generator: false
   alternate:
-  - name: 简体中文
-    link: /CyanStars_Docs/
-    lang: zh
-  - name: 繁體中文
-    link: /CyanStars_Docs/zh-Hant/
-    lang: zh-Hant
-  - name: English
-    link: /CyanStars_Docs/en/
-    lang: en
-  - name: 日本語
-    link: /CyanStars_Docs/ja/
-    lang: ja
-
+    - 
+      name: 简体中文
+      link: /CyanStars_Docs/
+      lang: zh
+    - 
+      name: 繁體中文
+      link: /CyanStars_Docs/zh-Hant/
+      lang: zh-Hant
+    - 
+      name: English
+      link: /CyanStars_Docs/en/
+      lang: en
+    - 
+      name: 日本語
+      link: /CyanStars_Docs/ja/
+      lang: ja
 markdown_extensions:
   - admonition
   - attr_list
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji 
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
+  - 
+    pymdownx.emoji:
+      emoji_index: !!python /name:material.extensions.emoji.twemoji
+      emoji_generator: !!python /name:material.extensions.emoji.to_svg
 nav:
-- home: index.md
-
+  - 
+    home: index.md
 plugins:
-- search:
-    separator: '[\s\u200b\-]'
-- i18n:
-    docs_structure: folder
-    fallback_to_default: true
-    reconfigure_material: true
-    reconfigure_search: true
-    languages:
-    - locale: zh
-      build: true
-      default: true
-      name: 简体中文
-      site_name: 学院档案馆
-      nav_translations:
-        home: 主页
-    - locale: zh-Hant
-      build: true
-      default: true
-      name: 繁體中文
-      site_name: 學院檔案館
-      nav_translations:
-        home: 主頁
-    - locale: en
-      build: true
-      name: English
-      site_name: College Archives
-      nav_translations:
-        home: Home
-    - locale: ja
-      build: true
-      name: 日本語
-      site_name: 学院ファイル館
-      nav_translations:
-        home: ホーム
+  - 
+    search:
+      separator: '[\s\u200b\-]'
+  - 
+    i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - 
+          locale: zh
+          build: true
+          default: true
+          name: 简体中文
+          site_name: 学院档案馆
+          nav_translations:
+            home: 主页
+        - 
+          locale: zh-Hant
+          build: true
+          default: true
+          name: 繁體中文
+          site_name: 學院檔案館
+          nav_translations:
+            home: 主頁
+        - 
+          locale: en
+          build: true
+          name: English
+          site_name: College Archives
+          nav_translations:
+            home: Home
+        - 
+          locale: ja
+          build: true
+          name: 日本語
+          site_name: 学院ファイル館
+          nav_translations:
+            home: ホーム
