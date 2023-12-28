@@ -8,6 +8,6 @@ This is an Encyclopedia of CyanStars documentation site. It contains information
 
 CyanStars (Blace Blue Dome) is a personal, non-commercial, open-source music game developed by IPOL by VC (Chinese virtual singers).
 
-## What is ISPOL
+## What is IPOL
 
-IPOL (Unskilled Light Development) is a non-profit group composed of virtual singers cultural enthusiasts and creators from around the world.
+IPOL is a non-profit group composed of virtual singers cultural enthusiasts and creators from around the world.
