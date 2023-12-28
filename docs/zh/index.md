@@ -1,3 +1,7 @@
+---
+hide: navigation
+---
+
 # 欢迎来到 CyanStars 附属文档站点
 
 ## 这是哪

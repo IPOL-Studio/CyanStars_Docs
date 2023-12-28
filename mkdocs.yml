@@ -58,6 +58,8 @@ markdown_extensions:
 
 nav:
 - home: index.md
+- database: 
+  - contributions: database/contributions.md
 
 plugins:
 - search:
@@ -75,6 +77,8 @@ plugins:
       site_name: 学院档案馆
       nav_translations:
         home: 主页
+        database: 资料库
+        contributions: 贡献者列表
     - locale: zh-Hant
       build: true
       default: true
@@ -94,3 +98,4 @@ plugins:
       site_name: 学院ファイル館
       nav_translations:
         home: ホーム
+        contributions: Contributions
