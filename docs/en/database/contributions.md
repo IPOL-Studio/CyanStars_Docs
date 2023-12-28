@@ -1,22 +1,22 @@
-# Contributor List
+# 贡献者列表
 
-## Group members
+## 开发组成员
 
-The following members are core members of IPOL and have participated in the development of the main part of the project!
+以下成员是 IPOL 的核心成员，参与了项目的主要部分开发\~
 
-| Members                             | Duties       | Members     | Duties    | Members  | Duties    |
-| ----------------------------------- | ------------ | ----------- | --------- | -------- | --------- |
-| 晨峦                                  | planning     | memorydream | Programs  | 自然妙有猫仙人  | Programs  |
-| Ybr                                 | Programs     | 阿鹄          | Fine Arts | SunTrIce | Text      |
-| 棗兒花卷                                | Text         | Qed         | Programs  | 小鱼在家     | Fine Arts |
-| 惊雨掠光                                | Fine Arts    | 斜日红狐泽       | Text      | Koeri    | Music     |
-| RedStone_jun   | Program Fine | mika        | Fine Arts | 万炯鸣      | Programs  |
-| FFT行西                               | Fine Arts    | 热血西蓝花       | Fine Arts | KILLA凌忍  | Fine Arts |
-| 生生_XShengsheng | Text         | 寻仙仙         | Fine Arts | 实心餐椅     | Fine Arts |
+| 成员                                  | 职责    | 成员          | 职责 | 成员       | 职责 |
+| ----------------------------------- | ----- | ----------- | -- | -------- | -- |
+| 晨峦                                  | 策划    | memorydream | 程序 | 自然妙有猫仙人  | 程序 |
+| Ybr                                 | 程序    | 阿鹄          | 美术 | SunTrIce | 文案 |
+| 棗兒花卷                                | 文案    | Qed         | 程序 | 小鱼在家     | 美术 |
+| 惊雨掠光                                | 美术    | 斜日红狐泽       | 文案 | Koeri    | 音乐 |
+| RedStone_jun   | 程序 美术 | mika        | 美术 | 万炯鸣      | 程序 |
+| FFT行西                               | 美术    | 热血西蓝花       | 美术 | KILLA凌忍  | 美术 |
+| 生生_XShengsheng | 文案    | 寻仙仙         | 美术 | 实心餐椅     | 美术 |
 
-## Join us
+## 加入我们
 
-Our project team is permanently recruited, always welcome into us!
+我们的项目组长期招人，随时欢迎加入我们！
 
 [申请加入开发组 :octicons-link-external-16:](http://chenluan.mikecrm.com/JeKq3DU)
 
