@@ -1,5 +1,3 @@
 files:
   - source: /docs/zh/**.md
     translation: /docs/%osx_locale%/%original_file_name%
-  - source: mkdocs.yml
-    translation: mkdocs.yml
