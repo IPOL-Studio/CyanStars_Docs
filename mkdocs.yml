@@ -40,8 +40,8 @@ extra:
     link: /CyanStars_Docs/
     lang: zh
   - name: 繁體中文
-    link: /CyanStars_Docs/zh-TW/
-    lang: zh-TW
+    link: /CyanStars_Docs/zh-Hant/
+    lang: zh-Hant
   - name: English
     link: /CyanStars_Docs/en/
     lang: en
@@ -77,7 +77,7 @@ plugins:
       site_name: 学院档案馆
       nav_translations:
         home: 主页
-    - locale: zh-TW
+    - locale: zh-Hant
       build: true
       default: true
       name: 繁體中文
