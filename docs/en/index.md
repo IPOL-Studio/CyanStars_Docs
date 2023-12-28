@@ -1,13 +1,13 @@
-# 欢迎来到 CyanStars 附属文档站点
+# Welcome to the CyanStars Document Site
 
-## 这是哪
+## Where is this
 
-这里是 CyanStars 的附属文档站点，记载着 CyanStars 的相关资讯与游戏百科。
+This is an Encyclopedia of CyanStars documentation site. It contains information and games about CyanStars in the Encyclopedia.
 
-## 什么是 CyanStars
+## What is CyanStars
 
-CyanStars（翠蓝星穹）是一款由 IPOL 开发的 VC（中文虚拟歌手）同人、非商、开源的音乐游戏。
+CyanStars is a personal, non-commercial, open-source music game developed by IPOL by VC (Chinese virtual singers).
 
-## 什么是 IPOL
+## What is ISPOL
 
-IPOL（无圻寻光开发组）一个非营利性团体，由全球各地的虚拟歌手文化爱好者、创作者共同组成。
+IPOL is a non-profit group composed of virtual singers cultural enthusiasts and creators from around the world.
