@@ -2,7 +2,7 @@
 
 ## Group members
 
-The following members are core members of IOPOL and have participated in the development of the main part of the project!
+The following members are core members of IPOL and have participated in the development of the main part of the project!
 
 | Members                             | Duties       | Members     | Duties    | Members  | Duties    |
 | ----------------------------------- | ------------ | ----------- | --------- | -------- | --------- |
