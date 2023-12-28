@@ -1,3 +1,7 @@
+---
+hide: navigation
+---
+
 # CyanStars 付属の文書サイトへようこそ
 
 ## どこだ？
