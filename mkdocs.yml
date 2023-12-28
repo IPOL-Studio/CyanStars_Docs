@@ -39,6 +39,15 @@ extra:
   - name: 简体中文
     link: /CyanStars_Docs/
     lang: zh
+  - name: 繁體中文
+    link: /CyanStars_Docs/zh-TW/
+    lang: zh-TW
+  - name: English
+    link: /CyanStars_Docs/en/
+    lang: en
+  - name: 日本語
+    link: /CyanStars_Docs/ja/
+    lang: ja
 
 markdown_extensions:
   - admonition
@@ -56,7 +65,7 @@ plugins:
 - search:
     separator: '[\s\u200b\-]'
 - i18n:
-    docs_structure: suffix
+    docs_structure: folder
     fallback_to_default: true
     reconfigure_material: true
     reconfigure_search: true
@@ -68,3 +77,22 @@ plugins:
       site_name: 学院档案馆
       nav_translations:
         home: 主页
+    - locale: zh-TW
+      build: true
+      default: true
+      name: 繁體中文
+      site_name: 學院檔案館
+      nav_translations:
+        home: 主頁
+    - locale: en
+      build: true
+      name: English
+      site_name: College Archives
+      nav_translations:
+        home: Home
+    - locale: ja
+      build: true
+      name: 日本語
+      site_name: 学院ファイル館
+      nav_translations:
+        home: ホーム
