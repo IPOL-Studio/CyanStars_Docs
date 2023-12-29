@@ -3,6 +3,7 @@ site_description: CyanStars 附属文档站点
 site_author: 无圻寻光开发组
 site_url: https://IPOL-Studio.github.io/CyanStars_Docs
 repo_url: https://github.com/IPOL-Studio/CyanStars_Docs
+edit_uri: edit/main/docs/
 theme:
   name: material
   custom_dir: overrides
@@ -19,6 +20,8 @@ theme:
   - search.suggest
   - content.code.copy
   - content.tooltips
+  - content.action.edit
+  - content.action.view
   palette: 
   - media: "(prefers-color-scheme: light)"
     scheme: default
