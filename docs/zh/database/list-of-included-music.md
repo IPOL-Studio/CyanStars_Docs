@@ -15,4 +15,4 @@
 
 ## 向我们投稿作品
 
-如果您是创作者本人，可以在 [这里](http://chenluan.mikecrm.com/Fkmdp4z) 向我们投稿您的作品。
+如果您是创作者本人，可以在 [这里 :octicons-link-external-16:](http://chenluan.mikecrm.com/Fkmdp4z) 向我们投稿您的作品。
