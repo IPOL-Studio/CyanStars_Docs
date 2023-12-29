@@ -88,7 +88,6 @@ plugins:
         list-of-included-music: 收录曲列表
     - locale: zh-Hant
       build: true
-      default: true
       name: 繁體中文
       site_name: 學院檔案館
       nav_translations:
