@@ -2,7 +2,7 @@ name: ci
 on:
   push:
     branches:
-      - Pre-release
+      - Pre_release
 permissions:
   contents: write
 jobs:
