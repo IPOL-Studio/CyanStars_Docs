@@ -14,9 +14,11 @@ theme:
   - navigation.prune
   - navigation.indexes
   - toc.follow
+  - toc.integrate
   - navigation.top
   - search.suggest
   - content.code.copy
+  - content.tooltips
   palette: 
   - media: "(prefers-color-scheme: light)"
     scheme: default
@@ -48,18 +50,22 @@ extra:
     lang: ja
 
 markdown_extensions:
+  - abbr
   - admonition
   - attr_list
+  - tables
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.snippets
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
 - home: index.md
 - database: 
   - contributions: database/contributions.md
+  - list-of-included-music: database/list-of-included-music.md
 
 plugins:
 - search:
@@ -79,6 +85,7 @@ plugins:
         home: 主页
         database: 资料库
         contributions: 贡献者列表
+        list-of-included-music: 收录曲列表
     - locale: zh-Hant
       build: true
       default: true
@@ -92,10 +99,11 @@ plugins:
       site_name: College Archives
       nav_translations:
         home: Home
+        contributions: Contributions
+        list-of-included-music: List of included music
     - locale: ja
       build: true
       name: 日本語
       site_name: 学院ファイル館
       nav_translations:
         home: ホーム
-        contributions: Contributions
