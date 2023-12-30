@@ -1,10 +1,12 @@
 | [简体中文](README.md) | English |
 
+
 # Welcome
 
 Welcome to the CyanStars_Docs repository, which contains the affiliated documentation and encyclopedia for the open-source game CyanStars.
 
 Please check the documentation webpage [here](https://ipol-studio.github.io/CyanStars_Docs).
+
 
 # Contributing to the Documentation
 
