@@ -16,7 +16,7 @@ The following members are core members of IPOL and have participated in the deve
 
 ## Join us
 
-Our project team is permanently recruited, always welcome into us!
+Our project team is permanently recruiting, always welcome to join us!
 
 [Apply to join the development team :octicons-link-external-16:](http://chenluan.mikecrm.com/JeKq3DU)
 
