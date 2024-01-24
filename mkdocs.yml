@@ -69,6 +69,7 @@ nav:
 - database: 
   - contributions: database/contributions.md
   - list-of-included-music: database/list-of-included-music.md
+  - privacy-policy: database/privacy-policy.md
 
 plugins:
 - search:
@@ -89,6 +90,7 @@ plugins:
         database: 资料库
         contributions: 贡献者列表
         list-of-included-music: 收录曲列表
+        privacy-policy: 隐私政策
     - locale: zh-Hant
       build: true
       name: 繁體中文
