@@ -80,17 +80,6 @@ plugins:
     reconfigure_material: true
     reconfigure_search: true
     languages:
-    - locale: zh
-      build: true
-      default: true
-      name: 简体中文
-      site_name: 学院档案馆
-      nav_translations:
-        home: 主页
-        database: 资料库
-        contributions: 贡献者列表
-        list-of-included-music: 收录曲列表
-        privacy-policy: 隐私政策
     - locale: zh-Hant
       build: true
       name: 繁體中文
@@ -111,3 +100,14 @@ plugins:
       site_name: 学院ファイル館
       nav_translations:
         home: ホーム
+    - locale: zh
+      build: true
+      default: true
+      name: 简体中文
+      site_name: 学院档案馆
+      nav_translations:
+        home: 主页
+        database: 资料库
+        contributions: 贡献者列表
+        list-of-included-music: 收录曲列表
+        privacy-policy: 隐私政策
