@@ -92,8 +92,10 @@ plugins:
       site_name: College Archives
       nav_translations:
         home: Home
+        database: Database
         contributions: Contributions
         list-of-included-music: List of included music
+        privacy-policy: Privacy policy
     - locale: ja
       build: true
       name: 日本語
