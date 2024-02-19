@@ -37,6 +37,9 @@ theme:
       icon: material/brightness-4
 
 extra:
+  analytics:
+    provider: google
+    property: G-BRKFMJ9WKY
   generator: false
   alternate:
   - name: 简体中文
