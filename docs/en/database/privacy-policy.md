@@ -1,8 +1,8 @@
-# 翠蓝星穹（CyanStars） 隐私政策
+# CyanStars Privacy Policy
 
-欢迎您访问我们的产品。**翠蓝星穹（CyanStars）**（包括App等产品提供的服务，以下简称“产品和服务”）是由 **无圻寻光开发组（IPOL）**（以下简称“我们”）开发并运营的。 确保用户的数据安全和隐私保护是我们的首要任务， 本隐私政策载明了您访问和使用我们的产品和服务时所收集的数据及其处理方式。
+Thank you for playing this game.**CyanStars** (including services and products provided by this APP, hereinafter referred to as "Products and Services") is developed and operated by **IPOL Studio** (hereinafter referred to as "We"). Our priority includes ensuring the security of your data and privacy. CyanStars Privacy Policy (hereinafter referred to as this "Privacy Policy" or this "Policy") will set out the data we collect when you visit or use our Products and Services and how they will be handled.
 
-请您在继续使用我们的产品前务必认真仔细阅读并确认充分理解本隐私政策全部规则和要点， 一旦您选择使用，即视为您同意本隐私政策的全部内容，同意我们按其收集和使用您的相关信息。 如您在在阅读过程中，对本政策有任何疑问，可联系我们的客服咨询， 请通过 **<chenluan@cyanstars.onaliyun.com>** 或产品中的反馈方式与我们取得联系。 如您不同意相关协议或其中的任何条款的，您应停止使用我们的产品和服务。
+请您在继续使用我们的产品前务必认真仔细阅读并确认充分理解本隐私政策全部规则和要点， 一旦您选择使用，即视为您同意本隐私政策的全部内容，同意我们按其收集和使用您的相关信息。 Should you have any doubts in reading this Policy, please reach us via **<chenluan@cyanstars.onaliyun.com>** or through the method set out in this Policy. Should you disagree with any content in the Policy, please cease accessing or using our Products and Services.
 
 本隐私政策帮助您了解以下内容：
 
