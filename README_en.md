@@ -1,18 +1,16 @@
-| [简体中文](README.md) | **English** |
-
+\| [简体中文](README.md) | **English** |
 
 # Welcome
 
-Welcome to the CyanStars_Docs repository, which contains the affiliated documentation and encyclopedia for the open-source game CyanStars.
+Welcome to the CyanStars_Docs repository, CyanStars_Docs is the supplementary documentation and encyclopedia for the open-source game [CyanStars](https://github.com/IPOL-Studio/CyanStars).
 
 Please check the documentation webpage [here](https://ipol-studio.github.io/CyanStars_Docs).
 
-
 # Contributing to the Documentation
 
-Found any errors, typos, or wish to revise an article?Feel free to raise them through a Pull Request or Issue.
+Found any errors, typos, or wish to revise an article?Welcome to Pull Request or go to the [CyanStars](https://github.com/IPOL-Studio/CyanStars) repository to create an Issue.
 
-Interested in contributing to the translation of articles and projects?Feel free to join us on [Crowdin](https://crowdin.com/project/cyanstars)!
+Interested in contributing to the translation of articles and projects?Welcome to participate on [Crowdin](https://crowdin.com/project/cyanstars)!  <!-- // Crowdin 翻译员请注意，翻译时请将此链接中的 zh. 改为你的语言标记。 -->
 
 Upon your contribution, we'll publicly acknowledge your name as a token of gratitude in database/contributions.md!
 
