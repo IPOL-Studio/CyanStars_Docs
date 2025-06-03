@@ -10,7 +10,7 @@
 
 # 为文档进行贡献
 
-发现了错误内容/错别字/想要修订文章？欢迎通过 Pull Request 或前往 [CyanStars](https://github.com/IPOL-Studio/CyanStars) 仓库进行 Issue。
+发现了错误内容/错别字/想要修订文章？欢迎 Pull Request 或前往 [CyanStars](https://github.com/IPOL-Studio/CyanStars) 仓库进行 Issue。
 
 希望参与文章与项目的翻译工作？欢迎前往 [Crowdin](https://zh.crowdin.com/project/cyanstars) 参与！  <!-- // Crowdin 翻译员请注意，翻译时请将此链接中的 zh. 改为你的语言标记。 -->
 
