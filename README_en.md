@@ -1,4 +1,4 @@
-\| [简体中文](README.md) | **English** |
+\| **简体中文** | [English](README_en.md) | [繁體中文](README_zh-Hant.md) | [日本語](README_ja.md) | [![Crowdin](https://badges.crowdin.net/cyanstars/localized.svg)](https://crowdin.com/project/cyanstars)
 
 # Welcome
 
@@ -10,7 +10,7 @@ Please check the documentation webpage [here](https://ipol-studio.github.io/Cyan
 
 Found any errors, typos, or wish to revise an article?Welcome to Pull Request or go to the [CyanStars](https://github.com/IPOL-Studio/CyanStars) repository to create an Issue.
 
-Interested in contributing to the translation of articles and projects?Welcome to participate on [Crowdin](https://crowdin.com/project/cyanstars)!  <!-- // Crowdin 翻译员请注意，翻译时请将此链接中的 zh. 改为你的语言标记。 -->
+Interested in contributing to the translation of articles and projects?Welcome to participate on [Crowdin](https://crowdin.com/project/cyanstars)!
 
 Upon your contribution, we'll publicly acknowledge your name as a token of gratitude in database/contributions.md!
 
