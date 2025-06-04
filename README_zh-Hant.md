@@ -1,4 +1,4 @@
-\| **简体中文** | [English](README_en.md) |
+\| [简体中文](README.md) | [English](README_en.md) | **繁體中文** | [日本語](README_ja.md) | [![Crowdin](https://badges.crowdin.net/cyanstars/localized.svg)](https://crowdin.com/project/cyanstars)
 
 # 歡迎
 
@@ -10,7 +10,7 @@
 
 发现了错误内容/错别字/想要修订文章？欢迎 Pull Request 或前往 [CyanStars](https://github.com/IPOL-Studio/CyanStars) 仓库进行 Issue。
 
-希望参与文章与项目的翻译工作？欢迎前往 [Crowdin](https://zh.crowdin.com/project/cyanstars) 参与！  <!-- // Crowdin 翻译员请注意，翻译时请将此链接中的 zh. 改为你的语言标记。 -->
+希望参与文章与项目的翻译工作？欢迎前往 [Crowdin](https://zh.crowdin.com/project/cyanstars) 参与！
 
 在您参与贡献后，我们将会在 database/contributions.md 中公开展示您的姓名表示感谢！
 
