@@ -2,7 +2,7 @@
 
 Thank you for playing this game.**CyanStars** (including services and products provided by this APP, hereinafter referred to as "Products and Services") is developed and operated by **IPOL Studio** (hereinafter referred to as "We"). Our priority includes ensuring the security of your data and privacy. CyanStars Privacy Policy (hereinafter referred to as this "Privacy Policy" or this "Policy") will set out the data we collect when you visit or use our Products and Services and how they will be handled.
 
-请您在继续使用我们的产品前务必认真仔细阅读并确认充分理解本隐私政策全部规则和要点， 一旦您选择使用，即视为您同意本隐私政策的全部内容，同意我们按其收集和使用您的相关信息。 Should you have any doubts in reading this Policy, please reach us via **<chenluan@cyanstars.onaliyun.com>** or through the method set out in this Policy. Should you disagree with any content in the Policy, please cease accessing or using our Products and Services. Should you disagree with any content in the Policy, please cease accessing or using our Products and Services.
+请您在继续使用我们的产品前务必认真仔细阅读并确认充分理解本隐私政策全部规则和要点， 一旦您选择使用，即视为您同意本隐私政策的全部内容，同意我们按其收集和使用您的相关信息。 Should you have any doubts in reading this Policy, please reach us via **<chenluan@cyanstars.onaliyun.com>** or through the method set out in this Policy. Should you disagree with any content in the Policy, please cease accessing or using our Products and Services.
 
 本隐私政策帮助您了解以下内容：
 
