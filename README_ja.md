@@ -6,11 +6,11 @@
 
 请在 [这里](https://ipol-studio.github.io/CyanStars_Docs) 查看文档网页。
 
-# 为文档进行贡献
+# ドキュメントへの貢献
 
-发现了错误内容/错别字/想要修订文章？欢迎 Pull Request 或前往 [CyanStars](https://github.com/IPOL-Studio/CyanStars) 仓库进行 Issue。
+誤字や誤った内容を見つけましたか？記事を修正したいですか？Pull Request へようこそ、または [CyanStars](https://github.com/IPOL-Studio/CyanStars) リポジトリで Issue に行ってください。
 
-希望参与文章与项目的翻译工作？欢迎前往 [Crowdin](https://zh.crowdin.com/project/cyanstars) 参与！
+記事やプロジェクトの翻訳作業に参加したいですか？[Crowdin](https://zh.crowdin.com/project/cyanstars) に参加してください！
 
 在您参与贡献后，我们将会在 database/contributions.md 中公开展示您的姓名表示感谢！
 
