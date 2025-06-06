@@ -19,7 +19,7 @@ Credits to every creator and contributor for making this project possible and en
 | 2  | 云与诗 [:simple-bilibili:](https://www.bilibili.com/video/BV1im411U77G) [:simple-neteasecloudmusic:](https://music.163.com/#/song?id=2051891255)  | QGRay :material-expand-all:{title="作词/作曲/编曲/混音/调教/PV视频/曲绘封面：QGRay"}                                                                                                                                                                                                                                                                                                                                             | Luo Tianyi (Vocaloid) | 寻仙仙          | -    | -    | 12 晨峦 | -     |
 | 3  | 云与诗 [:simple-bilibili:](https://www.bilibili.com/video/BV1im411U77G) [:simple-neteasecloudmusic:](https://music.163.com/#/song?id=2051891255)  | 爆音常安 :material-expand-all:{title="作词 : 洛春城/爆音常安<br>作曲 : 爆音常安/龙羽凌<br>编曲 : 爆音常安/龙羽凌<br>和声 : 洛天依<br>调参 : 爆音常安<br>混音 : Anasynth<br>制作 : 幻云文创团队<br>监制 : 龙羽凌<br>封面 : 阿丹<br>企划 : Cloud of illusion幻云文创<br>发行 : Cloud of illusion幻云文创"} | Luo Tianyi (ACE)      | 实心餐椅         | -    | -    | -     | 17 晨峦 |
 
-- The chart will be gradually improved in future versions.
+\* The chart will be gradually improved in future versions.
 
 ## Submit to us
 
