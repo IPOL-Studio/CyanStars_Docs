@@ -2,9 +2,9 @@
 
 # ようこそ
 
-欢迎来到 CyanStars_Docs 仓库，CyanStars_Docs 是开源游戏 [CyanStars](https://github.com/IPOL-Studio/CyanStars) 的附属文档与百科。
+CyanStars_Docs リポジトリへようこそ。CyanStars_Docs はオープンソースゲーム [CyanStars](https://github.com/IPOL-Studio/CyanStars) の付随文書と百科事典です。
 
-请在 [这里](https://ipol-studio.github.io/CyanStars_Docs) 查看文档网页。
+ドキュメントのウェブページは[こちら](https://ipol-studio.github.io/CyanStars_Docs)でご覧ください。
 
 # ドキュメントへの貢献
 
@@ -12,6 +12,6 @@
 
 記事やプロジェクトの翻訳作業に参加したいですか？[Crowdin](https://zh.crowdin.com/project/cyanstars) に参加してください！
 
-在您参与贡献后，我们将会在 database/contributions.md 中公开展示您的姓名表示感谢！
+あなたが貢献に参加した後、私たちはデータベース/contributions.mdにあなたの名前を感謝の意を表して公開します！
 
-如果您对我们的其他项目感兴趣，希望深度参与我们的开发，也随时欢迎 [申请加入我们](http://chenluan.mikecrm.com/JeKq3DU)！
+私たちの他のプロジェクトに興味がある場合、私たちの開発に深く参加したい場合も、いつでも [参加申請](http://chenluan.mikecrm.com/JeKq3DU) を歓迎します！
