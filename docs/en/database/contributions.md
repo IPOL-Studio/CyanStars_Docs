@@ -15,6 +15,15 @@ The following members are core members of IPOL and have participated in the deve
 | 生生_XShengsheng | Copywriting                           | 寻仙仙         | Art         | 实心餐椅     | Art         |
 | 胖头鱼                                 | Art                                   | 轩晞宇-AXiX    | Programming |          |             |
 
+## 社区成员
+
+感谢这些超棒的社区成员协助完善和推广项目！
+
+| 成员           | 职责 | 成员      | 职责 | 成员         | 职责 |
+| ------------ | -- | ------- | -- | ---------- | -- |
+| QiuFeng54321 | 翻译 | zxkenan | 翻译 | KoeriMikan | 翻译 |
+| YLGX         | 翻译 |         |    |            |    |
+
 ## Join us
 
 Our project team is permanently recruiting, always welcome to join us!
