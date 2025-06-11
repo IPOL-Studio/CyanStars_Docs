@@ -8,7 +8,7 @@ Please check the documentation webpage [here](https://ipol-studio.github.io/Cyan
 
 # Contributing to the Documentation
 
-Found any errors, typos, or wish to revise an article?Found any errors, typos, or wish to revise an article?Welcome to Pull Request or go to the [CyanStars](https://github.com/IPOL-Studio/CyanStars) repository to create an Issue.
+Found any errors, typos, or wish to revise an article?Welcome to Pull Request or go to the [CyanStars](https://github.com/IPOL-Studio/CyanStars) repository to create an Issue.
 
 Interested in contributing to the translation of articles and projects?Welcome to participate on [Crowdin](https://crowdin.com/project/cyanstars)!
 
