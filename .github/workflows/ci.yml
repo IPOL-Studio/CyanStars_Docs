@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
 permissions:
   contents: write
 jobs:
@@ -24,7 +27,11 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install jieba
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-static-i18n
-      - run: mkdocs gh-deploy --force
+      - name: Install dependencies
+        run: pip install mkdocs-material mkdocs-static-i18n jieba
+      - name: Build for Pull Request check
+        if: github.event_name == 'pull_request'
+        run: mkdocs build --verbose
+      - name: Deploy to gh-pages
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: mkdocs gh-deploy --force
