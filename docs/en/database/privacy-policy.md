@@ -10,17 +10,17 @@ Thank you for playing this game.**CyanStars** (including services and products p
 
 二、我们如何存储和保护您的个人信息；
 
-三、我们如何共享、转让、公开披露您的个人信息；
+3. How we share, transfer, and publicly disclose your personal information;
 
 四、我们如何处理未成年人的个人信息；
 
-## 一、我们如何收集和使用您的个人信息
+## 1. How we collect and use your personal information
 
-个人信息是指以电子或者其他方式记录的能够单独或者与其他信息， 结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。 我们根据《中华人民共和国网络安全法》和《信息安全技术个人信息安全规范》（GB/T 35273-2017） 以及其它相关法律法规的要求，并严格遵循正当、合法、必要的原则， 出于您使用我们提供的服务和/或产品等过程中而收集和使用您的个人信息。
+Personal information refers to any information recorded electronically or by other means that can, either alone or in combination with other data, identify a specific natural person or reflect the activities of a specific natural person. 我们根据《中华人民共和国网络安全法》和《信息安全技术个人信息安全规范》（GB/T 35273-2017） 以及其它相关法律法规的要求，并严格遵循正当、合法、必要的原则， 出于您使用我们提供的服务和/或产品等过程中而收集和使用您的个人信息。
 
 在使用我们的产品时，我们可能会收集您的软件日志信息，包括您的设备信息、浏览信息、点击信息等。
 
-## 二、我们如何存储和保护您的个人信息
+## 2. How we store and protect your personal information
 
 作为一般规则，我们仅在实现信息收集目的所需的时间内保留您的个人信息。 我们会在对于管理与您之间的关系严格必要的时间内保留您的个人信息 （例如，当您从我们的产品获取服务时）。 出于遵守法律义务或为证明某项权利或合同满足适用的诉讼时效要求的目的， 我们可能需要在上述期限到期后保留您存档的个人信息，并且无法按您的要求删除。 当您的个人信息对于我们的法定义务或法定时效对应的目的或档案不再必要时， 我们确保将其完全删除或匿名化。 如果您确认不再使用我们的产品和服务，并按照要求向我们完成了申请后，所有信息将被完全删除，但法律规定需要保存的信息除外。
 
