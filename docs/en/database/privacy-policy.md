@@ -6,9 +6,9 @@ Thank you for playing this game.**CyanStars** (including services and products p
 
 本隐私政策帮助您了解以下内容：
 
-一、我们如何收集和使用您的个人信息；
+1. How we collect and use your personal information;
 
-二、我们如何存储和保护您的个人信息；
+2. How we store and protect your personal information;
 
 3. How we share, transfer, and publicly disclose your personal information;
 
@@ -26,7 +26,7 @@ Personal information refers to any information recorded electronically or by oth
 
 我们使用符合业界标准的安全防护措施保护您提供的个人信息， 防止其遭到未经授权访问、公开披露、使用、修改、损坏或丢失。我们会采取一切合理可行的措施，保护您的个人信息。 我们会使用加密技术确保数据的保密性；我们会使用受信赖的保护机制防止数据遭到恶意攻击。
 
-## 三、我们如何共享、转让、公开披露您的个人信息
+## 3. How we share, transfer, and publicly disclose your personal information
 
 在管理我们的日常业务活动所需要时，为追求合法利益以更好地服务客户， 我们将合规且恰当的使用您的个人信息。出于对业务和各个方面的综合考虑， 我们可能会在脱敏后与第三方合作伙伴分享这些数据，这些数据将同样符合他们的隐私政策，不会被随意处置。
 
