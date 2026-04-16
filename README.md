@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> 本仓库已归档并迁移至 [CyanStars Wiki](https://github.com/IPOL-Studio/CyanStars/wiki)。
+
+
 \| **简体中文** | [English](README_en.md) | [繁體中文](README_zh-Hant.md) | [日本語](README_ja.md) | [![Crowdin](https://badges.crowdin.net/cyanstars/localized.svg)](https://crowdin.com/project/cyanstars)
 
 
